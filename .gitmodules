@@ -1,0 +1,3 @@
+[submodule "packages/meteor-collection-helpers"]
+	path = packages/meteor-collection-helpers
+	url = https://github.com/dburles/meteor-collection-helpers
